@@ -1,2 +1,4 @@
 # class1 this is my first page using markdown language 
-**~~qusai~~**
+**this is a bold text**
+
+**~~and this is a bold text with strike through~~**
