@@ -5,12 +5,4 @@
 
 [thats my link to Github](https://github.com/Qusaiq)
 
-#drinks
-
-*tea
-
-*necafe
-
-  *3in1
-  
-  *black
+# drinks
