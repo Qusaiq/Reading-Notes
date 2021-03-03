@@ -47,3 +47,21 @@ the page is using
 
  < !-- -->
 
+#### example 
+
+![image](https://user-images.githubusercontent.com/44680406/109818279-8028bc00-7c3b-11eb-9572-1fb5cdb7d1ae.png)
+
+# ID attribute 
+
+Every HTML element can carry
+the id attribute. It is used to
+uniquely identify that element
+from other elements on the
+page 
+
+#### example
+
+![image](https://user-images.githubusercontent.com/44680406/109818950-3ab8be80-7c3c-11eb-987c-7d1528f81c91.png)
+
+
+
