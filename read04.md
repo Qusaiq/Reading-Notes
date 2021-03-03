@@ -76,5 +76,29 @@ a document
 
 ![image](https://user-images.githubusercontent.com/44680406/109819325-9d11bf00-7c3c-11eb-9bbb-aba856a6268c.png)
 
+# Block Elements
+
+Some elements will always
+appear to start on a new line in
+the browser window. These are
+known as block level elements.
+
+# Inline Elements
+
+Some elements will always
+appear to continue on the
+same line as their neighbouring
+elements. These are known as
+inline elements
+
+# Grouping Text & Elements In a Block
+
+> < div>
+
+The < div > element allows you to
+group a set of elements together
+in one block-level box 
+
+![image](/mnt/c/Users/Qusai/Reading-Notes/div example.png)
 
 
