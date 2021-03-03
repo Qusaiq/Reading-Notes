@@ -93,12 +93,90 @@ inline elements
 
 # Grouping Text & Elements In a Block
 
-> < div>
+ > < div>
 
 The < div > element allows you to
 group a set of elements together
 in one block-level box 
 
-![image](/mnt/c/Users/Qusai/Reading-Notes/div example.png)
+#### example 
+
+![image](divexample.png)
+
+> < span>
+
+The < span> element acts like
+an inline equivalent of the < div>
+element. It is used to either:
+
+- Contain a section of text
+where there is no other suitable
+element to differentiate it from
+its surrounding text
+- Contain a number of inline
+elements
+
+# Iframes
+
+>An iframe is like a little window
+that has been cut into your
+page 
+
+#### Iframe attributes
+
+>- src : The src attribute specifies the
+URL of the page to show in the
+frame.
+>
+>- height : The height attribute specifies
+the height of the iframe in pixels.
+>
+>- width : The width attribute specifies
+the width of the iframe in pixels.
+
+# Iformation about your page 
+
+> < meta> The < meta> element lives inside the < head>.
+element and contains.
+information about that
+web page.
+
+# Escape Characters
+
+> Examples
+>
+> ![image](escape.png)
+
+>&lt;**div**&gt;<br>
+it's very usfel to group<br>
+together related elements on the page .
+>> auther Authors used class or id attributes
+to indicate the role of the &lt;**div**&gt;
+
+># HTML5 
+>introduces a new set of elements that allow you to divide up the
+parts of a page.
+>- &lt;**header**&gt; And &lt;**footer**&gt;
+>
+>  used for :
+>>- The main header or footer
+that appears<br> at the top or
+bottom of every page on the
+site
+>>- A header or footer for an
+individual &lt;article&gt; or
+&lt;section&gt; within the page.
+
+>&lt;**nav**&gt;
+><br>The &lt;nav&gt; element is used to
+contain the major navigational<br>
+blocks on the site such as the
+primary site navigation.
+>
+> example :
+
+> ![image](navex.png)
+
+
 
 
