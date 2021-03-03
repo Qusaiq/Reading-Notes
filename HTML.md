@@ -64,4 +64,17 @@ page
 ![image](https://user-images.githubusercontent.com/44680406/109818950-3ab8be80-7c3c-11eb-987c-7d1528f81c91.png)
 
 
+# Class Attribute
+
+Every HTML element can
+also carry a class attribute.
+Sometimes, rather than uniquely
+identifying one element within
+a document
+
+#### example 
+
+![image](https://user-images.githubusercontent.com/44680406/109819325-9d11bf00-7c3c-11eb-9bbb-aba856a6268c.png)
+
+
 
