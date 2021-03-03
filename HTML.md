@@ -45,5 +45,5 @@ the page is using
 
 # Comments in HTML
 
- <!-- -->
+ *<!-- -->*
 
