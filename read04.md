@@ -173,9 +173,84 @@ contain the major navigational<br>
 blocks on the site such as the
 primary site navigation.
 >
-> example :
+>&lt;**article**&gt;
+>The &lt;<article>&gt;element acts as
+a container for any section<br> of a
+page that could stand alone and
+potentially be syndicated.
+>
 
-> ![image](navex.png)
+>&lt;**aside**&gt;
+>The &lt;aside&gt; element has two
+purposes,<br> depending on whether
+it is inside an &lt;article&gt;
+element or not
+>
+>- when it's inside 
+>>- sit should contain
+information that is related to the
+article<br> but not essential to its
+overall meaning. For example,<br> a
+pullquote or glossary might be
+considered as an aside to the
+article it relates to
+>- when it's outside
+>>- it acts as a container
+for content that is related to
+the entire page.<br> For example,
+it might contain links to other
+sections of the site, <br>a list of
+recent posts, a search box, or
+recent tweets by the author.
+
+>&lt;**section**&gt;
+>
+>The &lt;section&gt; element groups
+related content together,<br> and
+typically each section would
+have its own heading.
+
+>&lt;**hgroup**&gt;
+>
+>The purpose of the &lt;hgroup&gt;
+element is to group together<br> a
+set of one or more &lt;h1&gt; through
+&lt;h6&gt; elements so that they are
+treated as one single heading.
+
+>&lt;**figure**&gt;
+>
+>It can be used
+to contain any content that is
+referenced from the main flow of
+an article (not just images).
+>
+>example of usage:
+>- Images
+>- Videos
+>- Graphs
+>- Diagrams
+>- Code samples
+>- Text that supports the main
+body of an article
+
+>*note That*
+>
+>Older browsers that do not
+know the new HTML5<br> elements
+will automatically treat them as
+inline elements.<br> Therefore, to
+help older browsers, you should
+include <br>these line of CSS which states which new
+elements should be rendered as
+block-level elements
+
+>>- ![image](Css.png)
+
+> example :
+>
+>![image](https://user-images.githubusercontent.com/44680406/109865890-4ec8e400-7c6d-11eb-9796-f0293ca2352f.png)
+
 
 
 
