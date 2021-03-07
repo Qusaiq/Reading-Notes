@@ -1,4 +1,4 @@
-# JS ( javeScript)
+# JS (javeScript)
 *JS makes web pages more interactive*
 >- Access Conten
 >- Modify Contet 

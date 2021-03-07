@@ -173,6 +173,7 @@ contain the major navigational<br>
 blocks on the site such as the
 primary site navigation.
 >
+
 >&lt;**article**&gt;
 >The &lt;<article>&gt;element acts as
 a container for any section<br> of a
@@ -247,9 +248,7 @@ block-level elements
 
 >>- ![image](Css.png)
 
-> example :
->
->![image](https://user-images.githubusercontent.com/44680406/109865890-4ec8e400-7c6d-11eb-9796-f0293ca2352f.png)
+
 
 
 
