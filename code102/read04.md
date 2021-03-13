@@ -15,9 +15,7 @@ the page is using
 
 #### HTML 5
 
-<!DOCTYPE html>
-<!DOCTYPE html PUBLIC
-"-//W3C//DTD
+
 
 #### HTML 4
 
