@@ -34,5 +34,6 @@
 | --------- | -------- | ---------           |
 | Read 01    | | [link](./code201/class-01.md)  |
 | Read 02    | | [link](./code201/class-02.md)|
+| Read 02    | | [link](./code201/class-03.md)|
 
 
