@@ -42,5 +42,7 @@
 | Read 08    | | [link](./code201/class-08.md)|
 | Read 09   | | [link](./code201/class-09.md)|
 | Read 010  | | [link](./code201/class-10.md)|
+| Read 011  | | [link](./code201/class-11.md)|
+| Read 012  | | [link](./code201/class-12.md)|
 
 
