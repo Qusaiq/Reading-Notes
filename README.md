@@ -44,5 +44,7 @@
 | Read 010  | | [link](./code201/class-10.md)|
 | Read 011  | | [link](./code201/class-11.md)|
 | Read 012  | | [link](./code201/class-12.md)|
+| Read 013  | | [link](./code201/class-13.md)|
+| Read 014  | | [link](./code201/class-14.md)|
 
 
