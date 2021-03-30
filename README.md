@@ -32,14 +32,14 @@
 
 | Contet |  |         Links                  |
 | --------- | -------- | ---------           |
-| Read 01    | | [link](./code201/class-01.md)  |
-| Read 02    | | [link](./code201/class-02.md)|
-| Read 03    | | [link](./code201/class-03.md)|
-| Read 04    | | [link](./code201/class-04.md)|
-| Read 05    | | [link](./code201/class-05.md)|
-| Read 06    | | [link](./code201/class-06.md)|
-| Read 07    | | [link](./code201/class-07.md)|
-| Read 08    | | [link](./code201/class-08.md)|
+| Read 01   | | [link](./code201/class-01.md)  |
+| Read 02   | | [link](./code201/class-02.md)|
+| Read 03   | | [link](./code201/class-03.md)|
+| Read 04   | | [link](./code201/class-04.md)|
+| Read 05   | | [link](./code201/class-05.md)|
+| Read 06   | | [link](./code201/class-06.md)|
+| Read 07   | | [link](./code201/class-07.md)|
+| Read 08   | | [link](./code201/class-08.md)|
 | Read 09   | | [link](./code201/class-09.md)|
 | Read 010  | | [link](./code201/class-10.md)|
 | Read 011  | | [link](./code201/class-11.md)|
